@@ -45,9 +45,9 @@ Modern **language translation platform** with clean UI.
 
 ## 📈 What's Next (By May 2029)
 
-1. **Q4 2024–Q1 2025**: DSA mastery + Python algorithmic trading libraries
-2. **Q2–Q3 2025**: Build a **backtested algo trading bot** (public repo)
-3. **Q4 2025–2026**: Intern at fintech/trading firm; ship production-level trading systems
+1. **Q4 2026–Q1 2027**: DSA mastery + Python algorithmic trading libraries
+2. **Q2–Q3 2027**: Build a **backtested algo trading bot** (public repo)
+3. **Q4 2027–2028**: Intern at fintech/trading firm; ship production-level trading systems
 4. **Freelance**: Algorithmic trading consulting + system development
 
 ---
@@ -55,7 +55,7 @@ Modern **language translation platform** with clean UI.
 ## 🔗 Links
 
 - **GitHub**: [@Ajithkumar0047](https://github.com/Ajithkumar0047)
-- **LinkedIn**: [Coming soon]
+- **LinkedIn**: [Ajith Kumar](www.linkedin.com/in/ajith-kumar-68775b379)
 - **Trading Playbook**: Private (DM me if interested)
 
 ---
