@@ -1,6 +1,6 @@
 # Ajith Kumar | Algo Trading Developer in Training 🚀
 
-**B.Tech AI & Data Science** | Tamil Nadu, India | Target: Algo Trading Developer (₹30+ LPA)
+**B.Tech AI & Data Science** | Tamil Nadu, India | Target: Algo Trading Developer 
 
 I'm building toward becoming an **algorithmic trading developer**. Currently grinding through **DSA foundations** while studying trading fundamentals and preparing for the **NPTEL DSA exam**. This is my learning journal—expect daily commits, solved problems, and shipped side projects.
 
